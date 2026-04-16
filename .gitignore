@@ -50,3 +50,6 @@ __pycache__/
 *$py.class
 venv/
 env/
+
+.cursor/
+.claude/
