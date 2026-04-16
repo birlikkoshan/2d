@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="TND.Upscaling.Framework.Runtime.Core.csproj" />
+  <Project Path="Unity.GraphicTests.Performance.Universal.Runtime.csproj" />
+  <Project Path="TND.Upscaling.Framework.Runtime.URP.csproj" />
+  <Project Path="tnd.upscaler.framework.demo.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="TND.Upscaling.Framework.Editor.Core.csproj" />
+  <Project Path="TND.Upscaling.Framework.Editor.URP.csproj" />
+</Solution>

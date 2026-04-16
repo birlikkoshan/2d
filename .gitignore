@@ -1,0 +1,52 @@
+# Unity
+Library/
+Temp/
+Logs/
+obj/
+bin/
+Build/
+Builds/
+*.csproj
+*.sln
+
+# User-specific
+UserSettings/
+.vsconfig
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Build outputs
+*.exe
+*.apk
+*.ipa
+*.app
+*.dmg
+
+# Editor backups
+*.blend1
+*.blend2
+*.psd~
+
+# LFS
+*.lfs
+
+# Python/venv
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
